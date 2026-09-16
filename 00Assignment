@@ -1,0 +1,27 @@
+Q1. JavaScript is high-level because it is easy to read/write and hides the underlying complex computer science-based operations.
+
+Q2. JavaScript is primarily an interpreted language, though modern implementations employ Just-In-Time (JIT) compilation.
+
+Q3. Chrome: V8, Firefox: SpiderMonkey, Safari: JavaScriptCore.
+
+Q4. Dynamic typing allows a variable to hold different data types at various points in time.
+
+Q5. ECMAScript is the standardized specification for JavaScript. JavaScript implements this standard.
+
+Q6. Static websites have fixed content, whereas dynamic sites allow content alteration. Example: Portfolio, Amazon.
+
+Q7. JavaScript adds interactivity and facilitates DOM (Document Object Model) and Event manipulation.
+
+Q8. JavaScript utilization areas include: Backend (Node.js), Mobile (React Native), Desktop (Electron), AI/ML (TensorFlow.js).
+
+Q9. Scripting can be inline (within HTML tags), external (separate .js file), or embedded (within HTML). External files promote reusable and organized code.
+
+Q10. The output types are: number, string, and boolean. This exemplifies JavaScript’s dynamic typing nature.
+
+Q11. Create a button and use JavaScript to make it pop up a message “Welcome to JavaScript!”
+
+Q12. Make a click event for the previously created button and change the paragraph text to “Button was clicked!” using JavaScript.
+
+Q13. Create a webpage with the specified heading and button. Upon clicking the button, the alert should appear, the background color should turn light blue, and the message should be printed in the console.
+
+Q14. JavaScript’s success derives from its ease of use and flexibility, and accessibility across multiple platforms. Node.js enabled server-side scripting, while ECMAScript’s continuous improvements enhanced performance and features. Additionally, it has been adopted as a programming language in various domains, including AI/ML.
