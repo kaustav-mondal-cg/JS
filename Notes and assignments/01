@@ -1,0 +1,21 @@
+// let num = Number(null)
+// console.log(num) //0
+
+// let num = Number(fasle)
+// console.log(num) //0
+
+// let num = Number(true)
+// console.log(num) //1
+
+// let num = Number(undefined)
+// console.log(num) //NaN
+
+// let num = Number([])
+// console.log(num) //0
+
+// let num = Number({})
+// console.log(num) //NaN
+
+// !!
+// console.log(0==null) --> false
+// console.log(null==undefine) --> false
